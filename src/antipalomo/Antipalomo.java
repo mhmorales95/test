@@ -16,6 +16,9 @@ public class Antipalomo {
      */
     public static void main(String[] args) {
         System.out.println("palomito");
+        
+        
+        System.out.println("PPP");
     }
     
 }
